@@ -1,7 +1,7 @@
 ## 360˚ WebVR Virtual Tour Workshop
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This app and tutorial were created by Shalini Sejwani ([@smsejwan](https://github.com/smsejwan)). The tutorial was adapted for a workshop at NCSU Libraries by Alison Blaine ([@alblaine](https://github.com/alblaine)).
+This app and tutorial were created by Shalini Sejwani ([@smsejwan](https://github.com/smsejwan)). The tutorial was adapted for a workshop at NCSU Libraries by Alison Blaine ([@alblaine](https://github.com/alblaine)) and Pete Schreiner ([@peaceshrine](https://github.com/peaceshrine)).
 
 ### Introduction
 The goal of this workshop is to create a virtual gallery of 360-degree photos that can be viewed in a VR headset. Here's an example of what the virtual gallery might look like:
